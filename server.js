@@ -57,5 +57,5 @@ server.use(auth);
 server.use(router);
 
 server.listen(3010, () => {
-  console.log('JSON Server is running 3010')
+  console.log('JSON Server is running port: 3010')
 });
