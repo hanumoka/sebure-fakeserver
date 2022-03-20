@@ -1,4 +1,11 @@
 {
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$axLYir6d6HYnHGybpDLavOHS.FHiZZ5B57EfoW3vTuKWhETtSAttG",
+      "id": 1
+    }
+  ],
   "memo": [
     {
       "id": 1,
